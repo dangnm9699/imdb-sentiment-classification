@@ -1,3 +1,9 @@
+# imdb data
+aclImdb
+
+# wandb
+wandb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
